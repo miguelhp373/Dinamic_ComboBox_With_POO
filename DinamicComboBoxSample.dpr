@@ -3,7 +3,7 @@ program DinamicComboBoxSample;
 uses
   Forms,
   U_Initial in 'U_Initial.pas' {Fr_Initial},
-  DinamicComboBoxListReturn in 'DinamicComboBoxListReturn.pas';
+  DinamicComboBoxListReturn in 'class\DinamicComboBoxListReturn.pas';
 
 {$R *.res}
 
