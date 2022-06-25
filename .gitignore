@@ -1,0 +1,7 @@
+*.~dpr
+*.~dfm
+*.~pas
+*.dcu
+*.~ddp
+*.fmx
+dcu
